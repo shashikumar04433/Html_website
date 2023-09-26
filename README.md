@@ -1,2 +1,2 @@
 # website
-          Fashion Lobby Website.
+          Fashion Lobby Website devloped by html and css.
